@@ -10,9 +10,9 @@
  * @wordpress-plugin
  *
  * Plugin Name: Send Hostname In Header
- * Plugin URI: https://github.com/kremerol/wordpress-plugin-send-hostname-in-header
+ * Plugin URI: https://kremerol.github.io/send-hostname-in-header/
  * Description: Add the hostname of the WordPress backend server handling the request in a http header named "x-wordpress-backend-hostname" of every php response. Could be useful for debugging purpose in a 'multiple WordPress backends' deployment.
- * Version: 0.0.1
+ * Version: 0.0.2
  * Author: Olivier Kremer
  * Author URI: https://github.com/kremerol
  * License: GPL-3+

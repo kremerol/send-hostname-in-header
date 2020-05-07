@@ -7,4 +7,4 @@ check:
 	mkdir -p releases
 
 package: check
-	zip releases/send-hostname-in-header.v0.0.1.zip LICENSE *.php
+	zip releases/send-hostname-in-header.v0.0.2.zip LICENSE *.php
